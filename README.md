@@ -27,24 +27,24 @@ Task 1: Git Basics
   
 //Task 2: Basic Linux Commands
 
-STEP 1:OPEN the my Bash terminal
+  STEP 1:OPEN the my Bash terminal
 
-STEP 2:Create the VettyTest directory:
+  STEP 2:Create the VettyTest directory:
        mkdir VettyTest
 
-STEP 3: Navigate into the VettyTest directory
+  STEP 3: Navigate into the VettyTest directory
         cd VettyTest
 
-STEP 4:THEN Create and edit the script.sh file using any text editor Vi
+  STEP 4:THEN Create and edit the script.sh file using any text editor Vi
        Vi script.sh
 
-STEP 5:Write the following script in the file to print "Welcome to DevOps!" to the terminal:
+  STEP 5:Write the following script in the file to print "Welcome to DevOps!" to the terminal:
        echo "Welcome to DevOps!"
 
-STEP 6: To save the this file using these command
+ STEP 6: To save the this file using these command
         :wq in editer
         
-STEP 7:  Change the permissions to make the script executable
+ STEP 7:  Change the permissions to make the script executable
         chmod +x script.sh
 
  STEP 8: Finaly run the script
